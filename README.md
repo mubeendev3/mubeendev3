@@ -72,7 +72,7 @@
 
 </br>
 
-## Github Stats
+<!-- ## Github Stats
 
 <p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mateendev3&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
@@ -84,4 +84,4 @@
   <img src="https://github.com/Faiz-Rhm/Faiz-Rhm/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
-<br/>  
+<br/>   -->
